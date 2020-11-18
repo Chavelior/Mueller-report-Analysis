@@ -13,8 +13,6 @@ library("ggplot2")
 library("stringr")
 
 
-
-#http://www.storybench.org/working-with-the-new-york-times-api-in-r/
 apikey <- paste0("NYTIMES_KEY=", "Wx23grgK4rxOOzXYG37DaSqF9o7YbPmW")
 Sys.setenv(NYTIMES_KEY="Wx23grgK4rxOOzXYG37DaSqF9o7YbPmW")
 
